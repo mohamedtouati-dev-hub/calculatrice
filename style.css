@@ -2,7 +2,7 @@
 #calculatorn_container{
     display: flex;
     flex-direction: column;
-    background-color: blue;
+    background-color: cyan;
     width: fit-content;
     padding: 20px;
     align-items: center;
@@ -10,7 +10,7 @@
     margin: 10px auto;
 }
 #display_area{
-    background-color: rgb(218,221,223);
+    background-color: orange;
     height: 70px;
     width: 350px;
     overflow-x: scroll;
